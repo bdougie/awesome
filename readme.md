@@ -666,6 +666,7 @@
 - [Design Principles](https://github.com/robinstickel/awesome-design-principles#readme) - Create better and more consistent designs and experiences.
 - [Theravada](https://github.com/johnjago/awesome-theravada#readme) - Teachings from the Theravada Buddhist tradition.
 - [inspectIT](https://github.com/inspectit-labs/awesome-inspectit#readme) - Open source Java app performance management tool.
+- [Black Developers](https://github.com/bdougie/awesome-black-developers)
 - [Open Source Maintainers](https://github.com/nayafia/awesome-maintainers#readme) - The experience of being an open source maintainer.
 - [Calculators](https://github.com/xxczaki/awesome-calculators#readme) - Calculators for every platform.
 - [Captcha](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
